@@ -26,6 +26,10 @@
     align-items: center;
 
 } 
+
+.form-input {
+    margin: 0;
+}
 .home-articles{
     margin-top: 5px;
 }
